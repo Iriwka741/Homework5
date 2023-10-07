@@ -1,9 +1,9 @@
 #print("Hello teacher")
 #print("Homework №5 Banul")
 #1.У списку цілих, заповненому випадковими числами обчислити:
-import random
-nums = [random.randint(-10, 10) for _ in range(10)]
-print(nums)
+#import random
+#nums = [random.randint(-10, 10) for _ in range(10)]
+#print(nums)
 # Суму від'ємних чисел:
 #sum_neg = 0
 
